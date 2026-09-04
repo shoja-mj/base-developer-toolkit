@@ -1,4 +1,4 @@
-# base-developer-toolkit
+# base-developer-toolkit 2
 A collection of scripts, test tools, and utility contracts optimized for Base L2 chain integration.
 # Base Developer Toolkit 🛠️
 
